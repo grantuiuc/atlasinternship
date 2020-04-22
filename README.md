@@ -11,8 +11,9 @@ I have included comments to describe what the program does line-by-line for easi
  ## Notes
 - __Make sure to close *AND* delete 'result.pdf' and 'emaildata.xls' before running to bypass permission errors (hope to fix)__
 - Each run of the script will generate a new 'test.txt', 'result.pdf', and 'emaildata.xls'
+- PDFs should already be in chronological order from the order they are downloaded
 - Recommend naming each of your pdfs as you download them to the folder for future reference
-- Please open pdfs in your own local machine and not on your local IDE
+- Please open pdfs to view in your own local machine and not on your local IDE
 - When filling out the Subject, it looks for the specific term 'SMMC'. However, not every email subject contains this keyword. 
 - Category 1, Category 2, and Campus may need to be manually filled
 
