@@ -2,6 +2,7 @@
 
 ## Overview
    The email script is created to automate and efficiently code SMMC's email data instead of manually filling out each field. It can help save lots of time and tedious work by filling out any number of reports onto an Excel file :smiley:. It is primarily dynamic as it will continue to work with all of our Webtool's pdf reports but can fall to some unaccounted issues (Specified below) :upside_down_face:. Hopefully this program will continue to be improved upon and finalized in the near future! :sunglasses:
+I have included comments to describe what the program does line-by-line for easier understanding and future improvements.
 
  
 ## How it works
