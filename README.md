@@ -1,10 +1,11 @@
 # Email Data Automation Python Script Documentation ATLAS Spring 2020 
 
 ## Overview
- The email script concatenates any amount of pdfs by appending the first page of each specified pdf to one another into one large combined pdf named ‘result.pdf’. After concatenating all the report pdfs into one, it converts all of the required data into a .txt file named ‘test.txt’. By using the xlwt Python to Excel library, the program will fill in the required text onto a new Excel spreadsheet called ‘emaildata.xls’ that is already formatted for you. 
+ The email script is created to automate and efficiently code SMMC's email data instead of manually filling out each field. It can help save lots of time and tedious work by filling out any number of reports onto an Excel file :smiley: .
+
  
 ## How it works
- The python script dynamically searches for key words in the pdfs to fill our required information on the Excel sheet. It utilizes python libraries that allow the program to interact with Excel sheets and real-time dates. Certain keywords may contain multiple duplicates but it accounts for this by only considering every other keyword in those situations. 
+ The python script dynamically searches for key words in the pdfs to fill our required information on the Excel sheet. It utilizes python libraries that allow the program to interact with Excel sheets and real-time dates. The program concatenates any amount of pdfs by appending the first page of each specified pdf to one another into one large combined pdf named ‘result.pdf’. After concatenating all the report pdfs into one, it converts all of the required data into a .txt file named ‘test.txt’. By using the xlwt Python to Excel library, the program will fill in the required text onto a new Excel spreadsheet called ‘emaildata.xls’ that is already formatted for you. Certain keywords may contain multiple duplicates but it accounts for this by only considering every other keyword in those situations. 
  
  ## Notes
 - Make sure to close AND delete 'result.pdf' and 'emaildata.xls' before running to bypass permission errors (hope to fix)
