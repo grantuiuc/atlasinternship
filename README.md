@@ -16,7 +16,7 @@ I have included comments to describe what the program does line-by-line for easi
 - Category 1, Category 2, and Campus may need to be manually filled
 
 
- ## Install Packages/Libraries
+ ## Install Packages/Libraries (Copy/paste this into your terminal)
  > pip install xlwt && pip install pypdf2 && pip install XlsxWriter && pip install python-dateutil && pip install DateTime && pip install datefinder
 
 ## Procedure
