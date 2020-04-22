@@ -17,7 +17,7 @@
 2. Copy over emailToExcel.py and open it in your preferred IDE (VSCode recommended)
 3. Download all email report pdfs from Webtools into the newly created folder that includes emailToExcel.py
 4. Run the Python file and open up 'emaildata.xlsx' to ensure everything is filled out properly
-5. Copy the filled out information to our 'Email and Social Media Data" in Box
+5. Copy the filled out information to our master 'Email and Social Media Data" file in Box
 
 
 
