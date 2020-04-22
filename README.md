@@ -6,6 +6,7 @@
  ## Notes
 - Make sure to close AND delete 'result.pdf' and 'emaildata.xls' before running to bypass permission errors (hope to fix)
 - Each run of the script will generate a new 'test.txt', 'result.pdf', and 'emaildata.xls'
+- Please open pdfs in your own local machine and not on your local IDE
 - Category 1, Category 2, and Campus may need to be manually filled
 
 
