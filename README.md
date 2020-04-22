@@ -4,9 +4,9 @@
  The email script concatenates any amount of pdfs by appending the first page of each specified pdf to one another into one large combined pdf named ‘result.pdf’. After concatenating all the report pdfs into one, it converts all of the required data into a .txt file named ‘test.txt’. By using the xlwt Python to Excel library, the program will fill in the required text onto a new Excel spreadsheet called ‘emaildata.xls’ that is already formatted for you.
  
  ## Notes
--Make sure to close AND delete 'result.pdf' and 'emaildata.xls' before running to bypass permission errors (hope to fix)
--Each run of the script will generate a new 'test.txt', 'result.pdf', and 'emaildata.xls'
--Category 1, Category 2, and Campus may need to be manually filled
+- Make sure to close AND delete 'result.pdf' and 'emaildata.xls' before running to bypass permission errors (hope to fix)
+- Each run of the script will generate a new 'test.txt', 'result.pdf', and 'emaildata.xls'
+- Category 1, Category 2, and Campus may need to be manually filled
 
 
  ## Install Packages/Libraries
