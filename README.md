@@ -20,7 +20,12 @@ I have included comments to describe what the program does line-by-line for easi
 
 
  ## Install Packages/Libraries (Copy/paste this into your terminal)
- > conda install xlwt && conda install pypdf2 && conda install XlsxWriter && conda install python-dateutil && conda install DateTime && conda install datefinder
+ > conda install xlwt 
+ > conda install pypdf2
+ > conda install XlsxWriter
+ > conda install python-dateutil 
+ > conda install DateTime 
+ > conda install datefinder
 
 ## Procedure
 1. Create a new folder on your desktop to put our files in
