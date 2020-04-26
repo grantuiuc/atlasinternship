@@ -26,6 +26,7 @@ I have included comments to describe what the program does line-by-line for easi
  * pip install python-dateutil 
  * pip install DateTime 
  * pip install datefinder
+ * pip install pandas
 
 ## Procedure
 1. Create a new folder on your desktop to put our files in
