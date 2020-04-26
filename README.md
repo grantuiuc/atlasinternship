@@ -20,8 +20,8 @@ I have included comments to describe what the program does line-by-line for easi
 
 
  ## Install Packages/Libraries (Copy/paste this into your terminal)
- >  1. conda install xlwt 
-    2. conda install pypdf2
+ >  * conda install xlwt 
+    * conda install pypdf2
  > conda install XlsxWriter
  > conda install python-dateutil 
  > conda install DateTime 
