@@ -20,7 +20,12 @@ I have included comments to describe what the program does line-by-line for easi
 
 
  ## Install Packages/Libraries (Copy/paste this into your terminal)
- > pip install xlwt && pip install pypdf2 && pip install XlsxWriter && pip install python-dateutil && pip install DateTime && pip install datefinder
+ * pip install xlwt 
+ * pip install pypdf2
+ * pip install XlsxWriter
+ * pip install python-dateutil 
+ * pip install DateTime 
+ * pip install datefinder
 
 ## Procedure
 1. Create a new folder on your desktop to put our files in
