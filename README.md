@@ -28,6 +28,7 @@ I have included comments to describe what the program does line-by-line for easi
  * pip install datefinder
  * pip install pandas
 
+# Detailed Procedure here: https://uofi.app.box.com/notes/658007345895
 ## Procedure
 1. Create a new folder on your desktop to put our files in
 2. Copy over emailToExcel.py and open it in your preferred IDE (VSCode recommended)
